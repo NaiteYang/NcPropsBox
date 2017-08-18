@@ -1,0 +1,9 @@
+name: NcPropsBox
+main: nx.propsbox.core.Core
+version: 0.0.1
+author: [weinaite ,wiwiho]
+description: This is a player place props or equipment of interface on the RPG games.
+
+commands:
+    ne:
+      description: Player user main commands.

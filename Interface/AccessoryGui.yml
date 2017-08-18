@@ -1,0 +1,7 @@
+﻿PropsBox:
+  Name: "裝飾品"
+  Items:
+    None:
+      DisplayName: " "
+      Lore:
+      - " "
